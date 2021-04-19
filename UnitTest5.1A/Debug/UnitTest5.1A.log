@@ -1,0 +1,5 @@
+﻿  UnitTest5.1A.cpp
+D:\Lab-5\5.A\5.A\Line.cpp(9,99): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+D:\Lab-5\5.A\5.A\Line.cpp(63,78): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+D:\Lab-5\5.A\UnitTest5.1A\UnitTest5.1A.cpp(17,13): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  UnitTest5.1A.vcxproj -> D:\Lab-5\5.A\Debug\UnitTest5.1A.dll
